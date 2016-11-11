@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CaseClosed.iml" filepath="$PROJECT_DIR$/.idea/modules/CaseClosed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CaseClosed_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CaseClosed_main.iml" group="CaseClosed" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CaseClosed_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CaseClosed_test.iml" group="CaseClosed" />
+    </modules>
+  </component>
+</project>

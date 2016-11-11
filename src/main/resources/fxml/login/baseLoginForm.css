@@ -1,0 +1,21 @@
+GridPane{
+-fx-padding: 16;
+-fx-hgap: 5;
+-fx-vgap: 10;
+-fx-max-width: 400;
+}
+
+
+TextField, PasswordField{
+    -fx-background-color: none;
+    -fx-border-color: midnightblue;
+    -fx-border-width: 0 0 2 0;
+    -fx-padding: 10 0 4 0;
+    -fx-background-radius: none;
+    -fx-font-size: 18px;
+}
+
+Label{
+    -fx-padding: 5 0 0 0;
+    -fx-text-fill: midnightblue;
+}
